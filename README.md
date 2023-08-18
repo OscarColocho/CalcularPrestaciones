@@ -12,7 +12,7 @@ Instrucciones para ejecucion del proyecto:
    3.3 PrestacionSemanal
 4. Abrir cualquiera de las clases anteriomente mencionadas
 5. Una vez dentro de la prueba puede modificar el valor  del salario dentro del metodo"prestacion"
-6. Despues de modiciar la prestacion hacer click Derecho y ejecutar el caso de prueba
+6. Despues de modificar la prestacion hacer click Derecho y ejecutar el caso de prueba
 7. Una vez la ejecucion ha terminado puede abrir las siguientes carpetas:
    7.1 SCMensual
    7.2 SCQuincenal
